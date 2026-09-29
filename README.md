@@ -11,7 +11,7 @@ Ready-to-use skills developed externally. Download the zip file of the repo peri
 
 ## Setup
 ### 1. Download VS Code
-Download [Visual Studio Code](https://code.visualstudio.com/download)), a free code editor.
+Download [Visual Studio Code](https://code.visualstudio.com/download), a free code editor.
 
 ### 2. Access the repo
 To access the repo for the first time: 
@@ -22,5 +22,5 @@ To access the repo for the first time:
 
 ### 3. Update the repo
 After making changes to the repo in VS Code, go to the Source Control tab, and select:
-1. Meatball menu > 'Pull' to pull the latest version of the repo
-2. 'Commit' (with a message) and push to commit changes to the repo
+1. 'Pull' to pull the latest version of the repo
+2. 'Commit & Push' (with a message) to commit changes to the repo
