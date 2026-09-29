@@ -17,7 +17,7 @@ To access the repo for the first time:
 2. **Create a GitHub account:** GitHub contains the repo (think: cloud storage) that the AI skills and agents will be saved to and is shareable with others. Sign in to the account in VS Code.
 3. **[Generate a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent):** The SSH key enables a linkage between the GitHub repo and your local VS Code, so that you can pull the latest version of the repo and push changes to it.
 4. **[Add the SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account):** Link the SSH key you created in your local computer to your GitHub account.
-5. **[Clone the repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)**:** The repo is cloned to your VS Code so that you can make changes to it locally while keeping the version in GitHub intact until you're ready to push new changes to it.
+5. **[Clone the repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)**: The repo is cloned to your VS Code so that you can make changes to it locally while keeping the version in GitHub intact until you're ready to push new changes to it.
 6. **Open the repo in VS Code:** Locate the cloned repo in your file explorer at /Users/youruser and open the file location in VS Code to start editing.
 
 ### 2. Update the repo
