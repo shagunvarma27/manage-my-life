@@ -2,7 +2,7 @@
 AI tools to manage my life!
 
 ## Skills
-Ready-to-use skills developed externally.
+Ready-to-use skills developed externally. Download the zip file of the repo periodically and add them to this repo to keep the skill updated.
 
 | Skill | Use case |
 | :--- | :--- |
