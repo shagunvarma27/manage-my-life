@@ -13,14 +13,14 @@ Ready-to-use skills developed externally. Download the zip file of the repo peri
 ### 1. Download VS Code
 Download [Visual Studio Code](https://code.visualstudio.com/download)), a free code editor.
 
-### 2. Link to the repo
-To access this repo: 
+### 2. Access the repo
+To access the repo for the first time: 
 1. Create a GitHub account
 2. [Generate a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 3. [Add the SSH key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 4. [Clone the repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-## 3. Update repo
+### 3. Update the repo
 After making changes to the repo in VS Code, go to the Source Control tab, and select:
 1. Meatball menu > 'Pull' to pull the latest version of the repo
 2. 'Commit' (with a message) and push to commit changes to the repo
